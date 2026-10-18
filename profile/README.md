@@ -11,6 +11,6 @@ We help small and mid-sized businesses eliminate manual, repetitive work.
 
 **Stack:** Python · n8n · Make.com · Google Apps Script · Docker · REST APIs
 
-🌐 [forgeflow.lt](https://forgeflow.lt) · 📍 Kaunas, Lithuania
+✉️ info@forgeflow.lt · 📍 Kaunas, Lithuania
 
 > Client projects are private. Public repositories contain open-source tools and examples.
