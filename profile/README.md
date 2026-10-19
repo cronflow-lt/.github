@@ -1,4 +1,4 @@
-## Forgeflow — Business Process Automation
+## Cronflow — Business Process Automation
 
 We help small and mid-sized businesses eliminate manual, repetitive work.
 
@@ -11,6 +11,6 @@ We help small and mid-sized businesses eliminate manual, repetitive work.
 
 **Stack:** Python · n8n · Make.com · Google Apps Script · Docker · REST APIs
 
-✉️ info@forgeflow.lt · 📍 Kaunas, Lithuania
+✉️ info@cronflow.lt · 📍 Kaunas, Lithuania
 
 > Client projects are private. Public repositories contain open-source tools and examples.
